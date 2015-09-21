@@ -32,9 +32,9 @@ start Mysql
 
 * `systemctl start mariadb.service`
 
- MySQL to start during the every boot
+to start during the every boot
  
- * `systemctl enable mariadb.service`
+* `systemctl enable mariadb.service`
  
 run following command to `set root password`, `remove root accounts`, `remove anonymous-user accounts`, `remove the test database`
  
